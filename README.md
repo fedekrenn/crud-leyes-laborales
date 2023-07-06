@@ -1,16 +1,7 @@
-# Proyecto Integrador - CRUD de normativas 
+# Proyecto Integrador - CRUD de leyes y normativas 
 
 Proyecto grupal para el módulo "programador" de la tecnicatura en desarrollo web y aplicaciones digitales | ISPC . Está compuesto por tres espacios curriculares, que integran el módulo “Programador”, estos son: Introducción a la Programación, Base de Datos, y Ética y Deontología
 Profesional.
-
-## Integrantes 
-
-- Krenn Federico Nicolás | [GitHub](https://github.com/fedekrenn)
-- Castillo Fernanda | [GitHub](https://github.com/FernandaACastillo)
-- Olavarria Andres | [GitHub](https://github.com/Andaol)
-- Garcia Luis Javier | [GitHub](https://github.com/xavi-garcia)
-- Carolina Gómez | [GitHub](https://github.com/Carito-Gomez)
-- Germán Emanuel Liendo | [GitHub](https://github.com/g3rm6nI)
 
 ## Descripción del proyecto 
 
@@ -54,3 +45,13 @@ En la carpeta db_files se puede encontrar:
 - Para hacer el programa más óptimo y ejecutable en cualquier entorno, se optó por subir la base de datos a un servidor en la nube, el mismo es [Clevercloud](https://www.clever-cloud.com/) y los datos de conexión están en el archivo de configuración, el cual a su vez modificando sólo los datos por el localhost puede ejecutarse con una DB local. De igual manera, en la carpeta db_files está el archivo "database.sql" con todas las query que crean la db para poder ejecutarla en local
 
 - Cuando se da de alta una nueva normativa, la clase posee una validación para que el usuario no tenga que seleccionar manualmente el dato del órgano legislativo, esto es debido a que si la ley es nacional, el órgano legislativo es el Congreso de la Nación. Por el contrario, si la ley es provincial, corresponde la Legislatura de Córdoba. Entonces el usuario al seleccionar la jurisdicción, el órgano legislativo se selecciona automáticamente.
+
+
+<br>
+
+## 🙋‍♂️ Hola, Soy Federico Krenn
+:nerd_face: Desarrollador web Fullstack
+<br>
+👨‍🎓 Realizando la Tecnicatura en Desarrollo Web en ISPC y Tecnicatura en Software Libre en la UNL
+<br>
+📫 Conectemos en Linkedin: https://www.linkedin.com/in/fkrenn/
